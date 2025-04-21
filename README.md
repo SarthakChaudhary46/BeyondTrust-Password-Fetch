@@ -10,7 +10,7 @@ A Python library to retrieve secrets from **BeyondTrust Password Safe**, using e
 - Please set ***RUNAS*** and ***AUTH_KEY*** in your environment/Pipeline.
 - ***RUNAS*** must be set as ***BT_CREDS_Username*** or ***Username***
 - ***AUTH_KEY*** must be set as ***BT_CREDS_AUTHKEY*** or ***BT_AUTH_KEY***
-- ***BASE_URL*** must be exported as well.
+- ***BASE_URL*** must be set as ***BT_URL*** or ***BT_BASE_URL***
 
 ## Features
 
